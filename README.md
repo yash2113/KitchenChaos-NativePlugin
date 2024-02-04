@@ -5,7 +5,7 @@ Description
 "Kitchen Chaos" is a thrilling cooking game where players navigate a fast-paced virtual kitchen, racing against time to prepare various dishes. The game now features enhanced social engagement with the implementation of an Address Book Service and Mail Composer, courtesy of Voxel Busters Essential Kit (free version).
 
 Implementation of Address Book Service and Mail Composer
-IG_AddressBookService Script:
+IG_AddressBookService Script(scripts in the Essentail Kit Native plugin Folder of scripts section):
 
 Created the IG_AddressBookService script utilizing Voxel Busters Essential Kit. This script efficiently loads the player's address book contacts, allowing seamless access to phone contacts within the game.
 IG_Sharing Script:
